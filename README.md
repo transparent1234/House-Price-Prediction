@@ -57,6 +57,6 @@ The model predicts house prices based on input features and evaluates performanc
 
 ## Author
 
-Created by [Your Name]
+Created by Vinay Panyala
 
 Aspiring Data Scientist
